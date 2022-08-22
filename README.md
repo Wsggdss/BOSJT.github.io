@@ -1,1 +1,1 @@
-# BOSJT.github.io
+# bosjt.github.io
